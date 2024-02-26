@@ -5,9 +5,9 @@
 - 📫 How to reach me <a href="https://twitter.com/morenikhil" target="_blank" >@morenikhil</a>
 - 😄 Pronouns: He/Him
 
-☁ Salesforce **4X** certified developer, Copado **3X** certified and Flosum **1X** certified.
+☁ Salesforce **8X** certified developer, Copado **4X** certified and Flosum **1X** certified.
 
-☁ Salesforce Technical Lead with **8+ years** of experience in configuration and customization of Salesforce.
+☁ Salesforce Technical Lead with **9+ years** of experience in configuration and customization of Salesforce.
 
 ☁ Working on Salesforce classic, Lightning platform, Lightning component framework, Lightning Designs System and Lightning Web Components.
 
