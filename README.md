@@ -7,7 +7,7 @@
 
 ☁ Salesforce **9X** certified developer, Copado **4X** certified and Flosum **1X** certified.
 
-☁ Salesforce Technical Lead with **9+ years** of experience in configuration and customization of Salesforce.
+☁ Salesforce Technical Lead with **11+ years** of experience in configuration and customization of Salesforce.
 
 ☁ Working on Salesforce classic, Lightning platform, Lightning component framework, Lightning Designs System and Lightning Web Components.
 
