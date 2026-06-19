@@ -9,7 +9,6 @@ I'm a Salesforce developer passionate about building **scalable, reusable Lightn
 - 📚 Blogger at <a href="https://salesforcehints.blogspot.com/" target="_blank" >Salesforce Hints</a>
 - 💬 Ask me anything about <a href="https://www.salesforce.com/in/" target="_blank" >Salesforce</a>
 - 📫 How to reach me <a href="https://twitter.com/morenikhil" target="_blank" >@morenikhil</a>
-- 😄 Pronouns: He/Him
 
 ---
 
