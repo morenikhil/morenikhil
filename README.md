@@ -1,9 +1,36 @@
-- <h2>👋 Hi, I’m Nikhil More </h2>
-- 😊 I'm a Salesforce Technical Lead
+# Hi there, I'm Nikhil More 👋
+
+## Salesforce Technical Lead | LWC Enthusiast | Trailblazer
+
+I'm a Salesforce developer passionate about building **scalable, reusable Lightning Web Components** and enterprise-grade Apex solutions. I share practical, production-ready patterns that help teams reduce code duplication and ship faster.
+
+---
+
 - 📚 Blogger at <a href="https://salesforcehints.blogspot.com/" target="_blank" >Salesforce Hints</a>
 - 💬 Ask me anything about <a href="https://www.salesforce.com/in/" target="_blank" >Salesforce</a>
 - 📫 How to reach me <a href="https://twitter.com/morenikhil" target="_blank" >@morenikhil</a>
 - 😄 Pronouns: He/Him
+
+---
+
+## 🚀 What I Build
+
+- **Lightning Web Components (LWC)** — reusable, accessible, and configurable UI patterns
+- **Apex Development** — clean, testable, enterprise Salesforce backend logic
+- **Salesforce Architecture** — scalable solutions built for multi-org deployment
+
+---
+
+## 🛠️ Tech Stack
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ☁ Salesforce **9X** certified developer, Copado **4X** certified and Flosum **1X** certified.
 
@@ -37,7 +64,7 @@
 
 ☁ I’m always interested in hearing from former colleagues, managers, or just interesting creative folk, so feel free to contact me if you’d like to connect.
 
-<!---
-morenikhil/morenikhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+> *"Build once, deploy everywhere — reusability is the real Salesforce superpower."*
+
